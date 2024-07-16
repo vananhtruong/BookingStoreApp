@@ -1,0 +1,16 @@
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\bin\Debug\net8.0\appsettings.json
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\bin\Debug\net8.0\DataAccess.dll
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\bin\Debug\net8.0\BusnessObject.dll
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\bin\Debug\net8.0\BusnessObject.pdb
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\obj\Debug\net8.0\DataAccess.dll
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+E:\Code\ConsoleApp\BookStoreManagement\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
