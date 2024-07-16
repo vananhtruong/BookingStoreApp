@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1K78OsQrB2M=",
+  "dgSpecHash": "Pp4BWWf/lAU=",
   "success": true,
-  "projectFilePath": "E:\\Code\\ConsoleApp\\BookStoreManagement\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\truon\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\truon\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
