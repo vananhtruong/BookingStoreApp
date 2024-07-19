@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\Service\\Service.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\Service\\Service.csproj": {}
   },
   "projects": {
-    "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
         "projectName": "BusnessObject",
-        "projectPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BusnessObject\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\BusnessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -89,24 +88,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -115,15 +114,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
-                "projectPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
+              "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
               }
             }
           }
@@ -158,24 +156,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\Repositories\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -184,18 +182,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
-                "projectPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
+              "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
               },
-              "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -230,24 +227,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\Service\\Service.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\Service\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -256,18 +253,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
-                "projectPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
+              "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
               },
-              "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\Repositories\\Repositories.csproj": {
-                "projectPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\Repositories\\Repositories.csproj"
+              "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Chuyên ngành 5\\PRN212\\ProjectBook\\BookingStoreApp\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -302,7 +298,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

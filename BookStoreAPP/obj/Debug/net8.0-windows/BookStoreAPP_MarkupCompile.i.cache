@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\fpt\ki 5\PRN212\Project\BookingStoreApp\BookStoreAPP\obj\Debug\net8.0-windows\
+C:\Users\Admin\Desktop\Chuyên ngành 5\PRN212\ProjectBook\BookingStoreApp\BookStoreAPP\obj\Debug\net8.0-windows\
 BookStoreAPP
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-E:\fpt\ki 5\PRN212\Project\BookingStoreApp\BookStoreAPP\App.xaml
-11407045341
+C:\Users\Admin\Desktop\Chuyên ngành 5\PRN212\ProjectBook\BookingStoreApp\BookStoreAPP\App.xaml
+5510118144
 
-6643840845
-247-242649440
-MainWindow.xaml;
+10-1316712094
+248139884079
+AdminWindow.xaml;MainWindow.xaml;MemberProfile.xaml;MemberRegister.xaml;MemberWindow.xaml;
 
-True
+False
 
