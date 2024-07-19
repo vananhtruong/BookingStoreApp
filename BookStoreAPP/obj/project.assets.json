@@ -3310,11 +3310,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj",
+      "projectUniqueName": "E:\\fpt\\ki 5\\PRN212\\BookingApp\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj",
       "projectName": "BookStoreAPP",
-      "projectPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj",
+      "projectPath": "E:\\fpt\\ki 5\\PRN212\\BookingApp\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj",
       "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-      "outputPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BookStoreAPP\\obj\\",
+      "outputPath": "E:\\fpt\\ki 5\\PRN212\\BookingApp\\BookingStoreApp\\BookStoreAPP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3336,11 +3336,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
-              "projectPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
+            "E:\\fpt\\ki 5\\PRN212\\BookingApp\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+              "projectPath": "E:\\fpt\\ki 5\\PRN212\\BookingApp\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
             },
-            "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\Repositories\\Repositories.csproj": {
-              "projectPath": "E:\\fpt\\ki 5\\PRN212\\Project\\BookingStoreApp\\Repositories\\Repositories.csproj"
+            "E:\\fpt\\ki 5\\PRN212\\BookingApp\\BookingStoreApp\\Repositories\\Repositories.csproj": {
+              "projectPath": "E:\\fpt\\ki 5\\PRN212\\BookingApp\\BookingStoreApp\\Repositories\\Repositories.csproj"
             }
           }
         }
