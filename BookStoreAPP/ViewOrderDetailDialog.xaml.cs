@@ -37,6 +37,7 @@ namespace BookStoreAPP
             }
 
             var list = await orderBookService.GetAllOrderBookDetailByOrderId(orderBook.OrderBookId);
+            txtname.Text = orderBook.Member.FullName;
             dgOrderDetail.ItemsSource = list;
             txtDate.Text = orderBook.OrderDate.ToString();
             txttotalorder.Text = orderBook.TotalPrice.ToString();

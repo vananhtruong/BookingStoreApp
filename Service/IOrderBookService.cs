@@ -10,5 +10,6 @@ namespace Service
         Task Create(OrderBook employee);
         Task Update(OrderBook employee);
         Task Delete(int id);
+        Task AddOrder(OrderBook order, List<OrderBookDetail> detail);
     }
 }

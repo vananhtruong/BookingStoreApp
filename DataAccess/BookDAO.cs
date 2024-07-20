@@ -12,7 +12,8 @@ namespace DataAccess
     {
         public async Task<ICollection<Book>> GetAllBook()
         {
-            return await _context.Books.Include(t => t.BookCategory).ToListAsync();
+            using (var context = new BookStoreContext())
+                return await context.Books.Include(t => t.BookCategory).ToListAsync();
         }
         public async Task<Book> GetBookById(int id)
         {

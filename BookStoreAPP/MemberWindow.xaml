@@ -27,9 +27,9 @@
                 <TabItem Header="Profile" HorizontalAlignment="Right" Margin="0,-2,-2,0" Width="123">
                     <local:MemberProfile x:Name="memberProfile"/>
                 </TabItem>
-                <!--<TabItem Header="Booking Management" HorizontalAlignment="Right" Margin="0,-2,-2,0" Width="123">
-                    <local:CreateBookingRe x:Name="bookingManagement"/>
-                </TabItem>-->
+                <TabItem Header="Order History" HorizontalAlignment="Right" Margin="0,-2,-2,0" Width="123">
+                    <local:OrderHistory x:Name="orderHistory"/>
+                </TabItem>
             </TabControl>
             <Button Click="btnLogout_Click" Grid.ColumnSpan="2" Margin="510,10,88,579">
                 <StackPanel Orientation="Horizontal">

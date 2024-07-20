@@ -31,6 +31,12 @@
     <Compile Update="MemberWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="OrderBooks.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OrderHistory.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="OrderManagement.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -70,6 +76,12 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MemberWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OrderBooks.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OrderHistory.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="OrderManagement.xaml">

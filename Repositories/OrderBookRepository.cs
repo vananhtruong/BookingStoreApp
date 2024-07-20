@@ -36,5 +36,9 @@ namespace Repositories
         {
             await OrderBookDAO.Instance.Delete(id);
         }
+        public async Task AddOrder(OrderBook order, List<OrderBookDetail> detail)
+        {
+            await OrderBookDAO.Instance.AddOrder(order, detail);
+        }
     }
 }

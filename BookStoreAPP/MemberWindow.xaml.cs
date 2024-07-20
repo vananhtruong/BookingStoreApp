@@ -36,6 +36,10 @@ namespace BookStoreAPP
             {
                 memberProfile.BookManagementMember = bookManagement;
             }
+            if (orderHistory != null)
+            {
+                orderHistory.member = bookManagement;
+            }
         }
         private void btnLogout_Click(object sender, RoutedEventArgs e)
         {
