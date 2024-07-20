@@ -48,7 +48,7 @@ namespace BookStoreAPP
                 BookManagementMember.Email = txtEmailAddress.Text;
                 BookManagementMember.Password = txtPassword.Password;
 
-                    bookManagementMemberService.UpdateCus(BookManagementMember);
+                    await bookManagementMemberService.Update(BookManagementMember);
                     MessageBox.Show("Update Successful!");
             }
             catch (Exception ex)

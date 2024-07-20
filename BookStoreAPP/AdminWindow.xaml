@@ -6,7 +6,36 @@
         xmlns:local="clr-namespace:BookStoreAPP"
         mc:Ignorable="d" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True"
         Title="AdminWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <Window.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="White" Offset="0.0"/>
+            <GradientStop Color="White" Offset="1.0"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <StackPanel>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0*"/>
+                <ColumnDefinition Width="334*"/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="184*"/>
+                <RowDefinition Height="3*"/>
+            </Grid.RowDefinitions>
+            <TabControl Margin="9,42,1,4" Grid.Column="1">
+                <!--<TabItem Header="Profile" HorizontalAlignment="Right" Margin="0,-2,-2,0" Width="123">
+                    <local:MemberProfile x:Name="memberProfile"/>
+                </TabItem>-->
+                <!--<TabItem Header="Booking Management" HorizontalAlignment="Right" Margin="0,-2,-2,0" Width="123">
+                <local:CreateBookingRe x:Name="bookingManagement"/>
+            </TabItem>-->
+            </TabControl>
+            <Button Click="btnLogout_Click" Grid.ColumnSpan="2" Margin="510,10,88,579">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Logout"/>
+                </StackPanel>
+            </Button>
+        </Grid>
+    </StackPanel>
 </Window>

@@ -50,17 +50,5 @@ namespace DataAccess
             BookManagementMember account = new BookManagementMember();
             return await _context.BookManagementMembers.FirstOrDefaultAsync(t => t.Email == email);
         }
-        public static void UpdateCus(BookManagementMember p)
-        {
-            try
-            {
-                _context.Entry<BookManagementMember>(p).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
-                _context.SaveChanges();
-            }
-            catch (Exception ex)
-            {
-                throw new Exception(ex.Message);
-            }
-        }
     }
 }

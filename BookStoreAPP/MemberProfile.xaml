@@ -28,7 +28,7 @@
             <TextBox x:Name="txtFullName" Grid.Row="2" Grid.Column="1" Width="200" Margin="10"/>
 
             <Label Content="Email Address:" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Right" Margin="10"/>
-            <TextBox x:Name="txtEmailAddress" Grid.Row="3" Grid.Column="1" Width="200" Margin="10"/>
+            <TextBox x:Name="txtEmailAddress" IsReadOnly="True" Grid.Row="3" Grid.Column="1" Width="200" Margin="10"/>
 
             <Label Content="Password:" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Right" Margin="10"/>
             <PasswordBox x:Name="txtPassword" Grid.Row="4" Grid.Column="1" Width="200" Margin="10"/>

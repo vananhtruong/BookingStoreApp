@@ -40,9 +40,5 @@ namespace Service
         {
             return await _bookRepository.GetMemberByEmail(email);
         }
-        public void UpdateCus(BookManagementMember p)
-        {
-            BookManagementMemberDAO.UpdateCus(p);
-        }
     }
 }
