@@ -12,7 +12,7 @@ namespace DataAccess
     {
         public async Task<ICollection<Book>> GetAllBook()
         {
-            return await _context.Books.ToListAsync();
+            return await _context.Books.Include(t => t.BookCategory).ToListAsync();
         }
         public async Task<Book> GetBookById(int id)
         {
@@ -48,6 +48,13 @@ namespace DataAccess
                 _context.Books.Remove(existitem);
             }
             await _context.SaveChangesAsync();
+        }
+        public async Task<ICollection<Book>> Search(string query)
+        {
+            return await _context.Books.Where(c => c.BookName.Contains(query) ||
+                                                    c.Author.Contains(query) ||
+                                                    c.Price.ToString().Contains(query) ||
+                                           c.Description.Contains(query)).ToListAsync();
         }
     }
 }

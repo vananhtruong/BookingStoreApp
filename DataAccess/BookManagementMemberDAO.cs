@@ -12,7 +12,10 @@ namespace DataAccess
     {
         public async Task<ICollection<BookManagementMember>> GetAllMember()
         {
-            return await _context.BookManagementMembers.ToListAsync();
+            using (var context = new BookStoreContext())
+            {
+                return await context.BookManagementMembers.ToListAsync();
+            }
         }
         public async Task<BookManagementMember> GetMemberById(int id)
         {
@@ -61,6 +64,11 @@ namespace DataAccess
             {
                 throw new Exception(ex.Message);
             }
+        }
+        public async Task<ICollection<BookManagementMember>> Search(string query)
+        {
+            return await _context.BookManagementMembers.Where(c => c.Email.Contains(query) ||
+                                           c.FullName.Contains(query)).ToListAsync();
         }
     }
 }

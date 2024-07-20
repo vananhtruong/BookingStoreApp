@@ -7,7 +7,19 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="AddEditBookCategoryDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddEditBookDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="AdminWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManageBookCategory.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="MemberProfile.xaml.cs">
@@ -21,10 +33,28 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="AddEditBookCategoryDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddEditBookDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddEditCustomerDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="AdminWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="BookManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageBookCategory.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MemberManagement.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MemberProfile.xaml">

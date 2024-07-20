@@ -40,5 +40,9 @@ namespace Repositories
         {
             BookManagementMemberDAO.UpdateCus(p);
         }
+        public async Task<ICollection<BookManagementMember>> Search(string query)
+        {
+            return await BookManagementMemberDAO.Instance.Search(query);
+        }
     }
 }

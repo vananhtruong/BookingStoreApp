@@ -35,5 +35,9 @@ namespace Repositories
         {
             await BookDAO.Instance.Delete(id);
         }
+        public async Task<ICollection<Book>> Search(string query)
+        {
+            return await BookDAO.Instance.Search(query);
+        }
     }
 }

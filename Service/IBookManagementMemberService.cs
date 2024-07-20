@@ -11,5 +11,6 @@ namespace Service
         Task Delete(int id);
         Task<BookManagementMember> GetMemberByEmail(string email);
         void UpdateCus(BookManagementMember p);
+        Task<ICollection<BookManagementMember>> Search(string query);
     }
 }
