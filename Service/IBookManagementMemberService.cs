@@ -10,7 +10,6 @@ namespace Service
         Task Update(BookManagementMember employee);
         Task Delete(int id);
         Task<BookManagementMember> GetMemberByEmail(string email);
-        void UpdateCus(BookManagementMember p);
         Task<ICollection<BookManagementMember>> Search(string query);
     }
 }

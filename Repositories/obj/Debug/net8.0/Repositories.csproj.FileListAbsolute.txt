@@ -54,3 +54,22 @@ D:\Chuyên ngành 5\Clone\BookingStoreApp\Repositories\obj\Debug\net8.0\Reposito
 D:\Chuyên ngành 5\Clone\BookingStoreApp\Repositories\obj\Debug\net8.0\refint\Repositories.dll
 D:\Chuyên ngành 5\Clone\BookingStoreApp\Repositories\obj\Debug\net8.0\Repositories.pdb
 D:\Chuyên ngành 5\Clone\BookingStoreApp\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\track\BookingStoreApp\Repositories\bin\Debug\net8.0\appsettings.json
+D:\track\BookingStoreApp\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\track\BookingStoreApp\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\track\BookingStoreApp\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\track\BookingStoreApp\Repositories\bin\Debug\net8.0\BusnessObject.dll
+D:\track\BookingStoreApp\Repositories\bin\Debug\net8.0\DataAccess.dll
+D:\track\BookingStoreApp\Repositories\bin\Debug\net8.0\BusnessObject.pdb
+D:\track\BookingStoreApp\Repositories\bin\Debug\net8.0\DataAccess.pdb
+D:\track\BookingStoreApp\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\track\BookingStoreApp\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\track\BookingStoreApp\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\track\BookingStoreApp\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\track\BookingStoreApp\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\track\BookingStoreApp\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\track\BookingStoreApp\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\track\BookingStoreApp\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\track\BookingStoreApp\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\track\BookingStoreApp\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\track\BookingStoreApp\Repositories\obj\Debug\net8.0\ref\Repositories.dll

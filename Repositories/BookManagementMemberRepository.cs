@@ -36,10 +36,6 @@ namespace Repositories
         {
            return await BookManagementMemberDAO.Instance.GetMemberByEmail(email);
         }
-        public void UpdateCus(BookManagementMember p)
-        {
-            BookManagementMemberDAO.UpdateCus(p);
-        }
         public async Task<ICollection<BookManagementMember>> Search(string query)
         {
             return await BookManagementMemberDAO.Instance.Search(query);

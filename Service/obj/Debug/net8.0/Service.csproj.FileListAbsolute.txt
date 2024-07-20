@@ -40,3 +40,24 @@ D:\Chuyên ngành 5\Clone\BookingStoreApp\Service\obj\Debug\net8.0\Service.dll
 D:\Chuyên ngành 5\Clone\BookingStoreApp\Service\obj\Debug\net8.0\refint\Service.dll
 D:\Chuyên ngành 5\Clone\BookingStoreApp\Service\obj\Debug\net8.0\Service.pdb
 D:\Chuyên ngành 5\Clone\BookingStoreApp\Service\obj\Debug\net8.0\ref\Service.dll
+D:\track\BookingStoreApp\Service\bin\Debug\net8.0\appsettings.json
+D:\track\BookingStoreApp\Service\bin\Debug\net8.0\Service.deps.json
+D:\track\BookingStoreApp\Service\bin\Debug\net8.0\Service.dll
+D:\track\BookingStoreApp\Service\bin\Debug\net8.0\Service.pdb
+D:\track\BookingStoreApp\Service\bin\Debug\net8.0\BusnessObject.dll
+D:\track\BookingStoreApp\Service\bin\Debug\net8.0\DataAccess.dll
+D:\track\BookingStoreApp\Service\bin\Debug\net8.0\Repositories.dll
+D:\track\BookingStoreApp\Service\bin\Debug\net8.0\BusnessObject.pdb
+D:\track\BookingStoreApp\Service\bin\Debug\net8.0\Repositories.pdb
+D:\track\BookingStoreApp\Service\bin\Debug\net8.0\DataAccess.pdb
+D:\track\BookingStoreApp\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\track\BookingStoreApp\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\track\BookingStoreApp\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\track\BookingStoreApp\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\track\BookingStoreApp\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\track\BookingStoreApp\Service\obj\Debug\net8.0\Service.sourcelink.json
+D:\track\BookingStoreApp\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\track\BookingStoreApp\Service\obj\Debug\net8.0\Service.dll
+D:\track\BookingStoreApp\Service\obj\Debug\net8.0\refint\Service.dll
+D:\track\BookingStoreApp\Service\obj\Debug\net8.0\Service.pdb
+D:\track\BookingStoreApp\Service\obj\Debug\net8.0\ref\Service.dll

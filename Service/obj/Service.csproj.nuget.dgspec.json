@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Service\\Service.csproj": {}
+    "D:\\track\\BookingStoreApp\\Service\\Service.csproj": {}
   },
   "projects": {
-    "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+    "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
+        "projectUniqueName": "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
         "projectName": "BusnessObject",
-        "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
+        "projectPath": "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BusnessObject\\obj\\",
+        "outputPath": "D:\\track\\BookingStoreApp\\BusnessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,14 +93,14 @@
         }
       }
     },
-    "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\DataAccess\\DataAccess.csproj": {
+    "D:\\track\\BookingStoreApp\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\track\\BookingStoreApp\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\track\\BookingStoreApp\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\DataAccess\\obj\\",
+        "outputPath": "D:\\track\\BookingStoreApp\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -122,8 +122,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
-                "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
+              "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+                "projectPath": "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
               }
             }
           }
@@ -162,14 +162,14 @@
         }
       }
     },
-    "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Repositories\\Repositories.csproj": {
+    "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Repositories\\Repositories.csproj",
+        "projectPath": "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Repositories\\obj\\",
+        "outputPath": "D:\\track\\BookingStoreApp\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -191,11 +191,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
-                "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
+              "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+                "projectPath": "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
               },
-              "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\DataAccess\\DataAccess.csproj"
+              "D:\\track\\BookingStoreApp\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\track\\BookingStoreApp\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -234,14 +234,14 @@
         }
       }
     },
-    "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Service\\Service.csproj": {
+    "D:\\track\\BookingStoreApp\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\track\\BookingStoreApp\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Service\\Service.csproj",
+        "projectPath": "D:\\track\\BookingStoreApp\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Service\\obj\\",
+        "outputPath": "D:\\track\\BookingStoreApp\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -263,11 +263,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
-                "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
+              "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+                "projectPath": "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
               },
-              "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Repositories\\Repositories.csproj": {
-                "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Repositories\\Repositories.csproj"
+              "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj"
               }
             }
           }

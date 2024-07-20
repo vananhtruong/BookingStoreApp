@@ -76,7 +76,7 @@
             <Button Content="Search" Click="btnSearch_Click"/>
         </StackPanel>
 
-        <DataGrid x:Name="dgCustomers" AutoGenerateColumns="False" CanUserAddRows="False" Grid.Row="1" SelectionMode="Single">
+        <DataGrid x:Name="dgCustomers" IsReadOnly="True" AutoGenerateColumns="False" CanUserAddRows="False" Grid.Row="1" SelectionMode="Single">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Book ID" Binding="{Binding BookId}" Width="SizeToHeader"/>
                 <DataGridTextColumn Header="Book Name" Binding="{Binding BookName}" Width="*"/>

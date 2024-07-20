@@ -3330,11 +3330,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj",
+      "projectUniqueName": "D:\\track\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj",
       "projectName": "BookStoreAPP",
-      "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj",
+      "projectPath": "D:\\track\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj",
       "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-      "outputPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BookStoreAPP\\obj\\",
+      "outputPath": "D:\\track\\BookingStoreApp\\BookStoreAPP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3356,14 +3356,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
-              "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
+            "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+              "projectPath": "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
             },
-            "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Repositories\\Repositories.csproj": {
-              "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Repositories\\Repositories.csproj"
+            "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj"
             },
-            "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Service\\Service.csproj": {
-              "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Service\\Service.csproj"
+            "D:\\track\\BookingStoreApp\\Service\\Service.csproj": {
+              "projectPath": "D:\\track\\BookingStoreApp\\Service\\Service.csproj"
             }
           }
         }
@@ -3404,13 +3404,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BookStoreAPP\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

@@ -41,7 +41,7 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <DataGrid x:Name="dgBookingHistory" d:ItemsSource="{d:SampleData ItemCount=14}" AutoGenerateColumns="False" Grid.Row="1" IsReadOnly="True" CanUserResizeColumns="False" CanUserReorderColumns="False" SelectionMode="Single" CanUserAddRows="False" CanUserDeleteRows="False" Margin="10,101,10,50" SelectionChanged="dgBookingHistory_SelectionChanged" Grid.RowSpan="2">
+        <DataGrid x:Name="dgBookingHistory"  d:ItemsSource="{d:SampleData ItemCount=14}" AutoGenerateColumns="False" Grid.Row="1" IsReadOnly="True" CanUserResizeColumns="False" CanUserReorderColumns="False" SelectionMode="Single" CanUserAddRows="False" CanUserDeleteRows="False" Margin="10,101,10,50" SelectionChanged="dgBookingHistory_SelectionChanged" Grid.RowSpan="2">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Order Id" Binding="{Binding OrderBookId}"  Width="SizeToHeader"/>
                 <DataGridTextColumn Header="Order Date" Binding="{Binding OrderDate}" Width="*"/>
