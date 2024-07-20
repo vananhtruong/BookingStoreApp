@@ -36,5 +36,17 @@ namespace Service
         {
             await _bookRepository.Delete(id);
         }
+        public async Task<BookManagementMember> GetMemberByEmail(string email)
+        {
+            return await _bookRepository.GetMemberByEmail(email);
+        }
+        public void UpdateCus(BookManagementMember p)
+        {
+            BookManagementMemberDAO.UpdateCus(p);
+        }
+        public async Task<ICollection<BookManagementMember>> Search(string query)
+        {
+            return await _bookRepository.Search(query);
+        }
     }
 }

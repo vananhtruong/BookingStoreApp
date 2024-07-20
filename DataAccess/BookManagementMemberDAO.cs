@@ -12,7 +12,10 @@ namespace DataAccess
     {
         public async Task<ICollection<BookManagementMember>> GetAllMember()
         {
-            return await _context.BookManagementMembers.ToListAsync();
+            using (var context = new BookStoreContext())
+            {
+                return await context.BookManagementMembers.ToListAsync();
+            }
         }
         public async Task<BookManagementMember> GetMemberById(int id)
         {
@@ -44,6 +47,28 @@ namespace DataAccess
                 _context.BookManagementMembers.Remove(existitem);
             }
             await _context.SaveChangesAsync();
+        }
+        public async Task<BookManagementMember> GetMemberByEmail(string email)
+        {
+            BookManagementMember account = new BookManagementMember();
+            return await _context.BookManagementMembers.FirstOrDefaultAsync(t => t.Email == email);
+        }
+        public static void UpdateCus(BookManagementMember p)
+        {
+            try
+            {
+                _context.Entry<BookManagementMember>(p).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+                _context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+        public async Task<ICollection<BookManagementMember>> Search(string query)
+        {
+            return await _context.BookManagementMembers.Where(c => c.Email.Contains(query) ||
+                                           c.FullName.Contains(query)).ToListAsync();
         }
     }
 }

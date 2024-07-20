@@ -41,5 +41,10 @@ namespace DataAccess
             }
             await _context.SaveChangesAsync();
         }
+        public async Task<ICollection<BookCategory>> Search(string query)
+        {
+            return await _context.BookCategories.Where(c => c.BookCategoryName.Contains(query) ||
+                                           c.Description.Contains(query)).ToListAsync();
+        }
     }
 }

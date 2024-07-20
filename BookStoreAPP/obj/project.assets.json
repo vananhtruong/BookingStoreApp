@@ -1224,6 +1224,20 @@
         "runtime": {
           "bin/placeholder/Repositories.dll": {}
         }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BusnessObject": "1.0.0",
+          "Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
+        }
       }
     }
   },
@@ -3295,12 +3309,18 @@
       "type": "project",
       "path": "../Repositories/Repositories.csproj",
       "msbuildProject": "../Repositories/Repositories.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Service/Service.csproj",
+      "msbuildProject": "../Service/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
       "BusnessObject >= 1.0.0",
-      "Repositories >= 1.0.0"
+      "Repositories >= 1.0.0",
+      "Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3341,6 +3361,9 @@
             },
             "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Repositories\\Repositories.csproj": {
               "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Repositories\\Repositories.csproj"
+            },
+            "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Service\\Service.csproj": {
+              "projectPath": "E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\Service\\Service.csproj"
             }
           }
         }
@@ -3381,5 +3404,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\fpt\\ki 5\\PRN212\\App\\BookingStoreApp\\BookStoreAPP\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

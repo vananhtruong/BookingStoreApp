@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 E:\fpt\ki 5\PRN212\App\BookingStoreApp\BookStoreAPP\App.xaml
-11407045341
+15544811349
 
-6643840845
-247400130973
-MainWindow.xaml;
+20-982966027
+248-776487455
+AddEditBookCategoryDialog.xaml;AddEditBookDialog.xaml;AddEditCustomerDialog.xaml;AdminWindow.xaml;BookManagement.xaml;MainWindow.xaml;ManageBookCategory.xaml;MemberManagement.xaml;MemberProfile.xaml;MemberRegister.xaml;MemberWindow.xaml;OrderBooks.xaml;OrderHistory.xaml;OrderManagement.xaml;ViewOrderDetailDialog.xaml;
 
-True
+False
 

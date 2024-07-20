@@ -1,0 +1,54 @@
+﻿<Window x:Class="BookStoreAPP.MemberRegister"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookStoreAPP"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True"
+        Title="MemberRegister" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="1.5*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Sign Up Section -->
+        <Border Grid.Column="0" CornerRadius="10,0,0,10" Background="#3AA9AD">
+            <Grid>
+                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Label Content="Let's get your sign up" FontSize="30" Foreground="White" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+                    <TextBlock Text="Enter your personal info and create new account to connect us" TextAlignment="Center" Foreground="White" Margin="0,0,0,20" FontSize="10px"/>
+                    <Button Content="SIGN IN" Click="btnSignIn_Click" Width="150" Height="40" Background="White" Foreground="#3AA9AD" BorderBrush="#3AA9AD" BorderThickness="2" HorizontalAlignment="Center" />
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- Sign In Section -->
+        <Border Grid.Column="1" CornerRadius="0,10,10,0" Background="White">
+            <Grid>
+                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Label Content="Register into BookStore App" FontSize="30" Foreground="#3AA9AD" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,20">
+                        <Button Content="G" Width="40" Height="40" Background="#3AA9AD" Foreground="White" FontWeight="Bold" Margin="10,0" />
+                        <Button Content="f" Width="40" Height="40" Background="#3AA9AD" Foreground="White" FontWeight="Bold" Margin="10,0" />
+                        <Button Content="in" Width="40" Height="40" Background="#3AA9AD" Foreground="White" FontWeight="Bold" Margin="10,0" />
+                    </StackPanel>
+                    <Label Content="FullName" Margin="0,0,0,5" Foreground="#3AA9AD"/>
+                    <TextBox x:Name="txtFullName" Width="250" Height="30" Margin="0,0,0,20" BorderBrush="#3AA9AD" BorderThickness="1"/>
+                    
+                    <Label Content="Email" Margin="0,0,0,5" Foreground="#3AA9AD"/>
+                    <TextBox x:Name="txtEmail" Width="250" Height="30" Margin="0,0,0,20" BorderBrush="#3AA9AD" BorderThickness="1"/>
+
+                    <Label Content="Password" Margin="0,0,0,5" Foreground="#3AA9AD"/>
+                    <PasswordBox x:Name="txtPassword" Width="250" Height="30" Margin="0,0,0,20" BorderBrush="#3AA9AD" BorderThickness="1"/>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,20">
+                        <Button Content="Save" Click="btnAdd_Click" Width="100" Height="40" Background="#3AA9AD" Foreground="White" Margin="10,0"/>
+                        <Button Content="Cancel" Click="btnCancel_Click" Width="100" Height="40" Background="Black" Foreground="White" Margin="10,0"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

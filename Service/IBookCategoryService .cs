@@ -1,4 +1,5 @@
 ﻿using BusnessObject;
+using Microsoft.EntityFrameworkCore;
 
 namespace Service
 {
@@ -9,5 +10,6 @@ namespace Service
         Task Create(BookCategory employee);
         Task Update(BookCategory employee);
         Task Delete(int id);
+        Task<ICollection<BookCategory>> Search(string query);
     }
 }

@@ -7,7 +7,87 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="AddEditBookCategoryDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddEditBookDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManageBookCategory.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MemberProfile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MemberRegister.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MemberWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OrderBooks.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OrderHistory.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OrderManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewOrderDetailDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddEditBookCategoryDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddEditBookDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddEditCustomerDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageBookCategory.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MemberManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MemberProfile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MemberRegister.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MemberWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OrderBooks.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OrderHistory.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OrderManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewOrderDetailDialog.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

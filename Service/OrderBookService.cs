@@ -40,5 +40,9 @@ namespace Service
         {
             await _bookRepository.Delete(id);
         }
+        public async Task AddOrder(OrderBook order, List<OrderBookDetail> detail)
+        {
+            await _bookRepository.AddOrder(order, detail);
+        }
     }
 }

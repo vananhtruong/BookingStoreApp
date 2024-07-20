@@ -9,7 +9,8 @@
       "BookStoreAPP/1.0.0": {
         "dependencies": {
           "BusnessObject": "1.0.0",
-          "Repositories": "1.0.0"
+          "Repositories": "1.0.0",
+          "Service": "1.0.0"
         },
         "runtime": {
           "BookStoreAPP.dll": {}
@@ -645,6 +646,15 @@
         "runtime": {
           "Repositories.dll": {}
         }
+      },
+      "Service/1.0.0": {
+        "dependencies": {
+          "BusnessObject": "1.0.0",
+          "Repositories": "1.0.0"
+        },
+        "runtime": {
+          "Service.dll": {}
+        }
       }
     }
   },
@@ -1106,6 +1116,11 @@
       "sha512": ""
     },
     "Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,4 +1,5 @@
 ﻿using BusnessObject;
+using Microsoft.EntityFrameworkCore;
 
 namespace Repositories
 {
@@ -10,5 +11,6 @@ namespace Repositories
         Task Create(Book book);
         Task Update(Book book);
         Task Delete(int id);
+       Task<ICollection<Book>> Search(string query);
     }
 }

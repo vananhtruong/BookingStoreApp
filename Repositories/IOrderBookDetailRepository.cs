@@ -10,5 +10,6 @@ namespace Repositories
         Task Create(OrderBookDetail employee);
         Task Update(OrderBookDetail employee);
         Task Delete(int orderid, int bookid);
+        Task<ICollection<OrderBookDetail>> GetAllOrderBookDetailByOrderId(int id);
     }
 }

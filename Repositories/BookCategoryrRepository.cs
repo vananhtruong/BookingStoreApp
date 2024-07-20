@@ -32,5 +32,9 @@ namespace Repositories
         {
             await BookCategoryDAO.Instance.Delete(id);
         }
+        public async Task<ICollection<BookCategory>> Search(string query)
+        {
+            return await BookCategoryDAO.Instance.Search(query);
+        }
     }
 }
