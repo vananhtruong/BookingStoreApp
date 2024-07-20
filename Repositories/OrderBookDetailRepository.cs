@@ -32,5 +32,9 @@ namespace Repositories
         {
             await OrderBookDetailDAO.Instance.Delete(orderid,bookid);
         }
+        public async Task<ICollection<OrderBookDetail>> GetAllOrderBookDetailByOrderId(int id)
+        {
+            return await OrderBookDetailDAO.Instance.GetAllOrderBookDetailByOrderId(id);
+        }
     }
 }

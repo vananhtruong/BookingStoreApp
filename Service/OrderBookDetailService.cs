@@ -1,5 +1,6 @@
 ﻿using BusnessObject;
 using DataAccess;
+using Microsoft.EntityFrameworkCore;
 using Repositories;
 using System;
 using System.Collections.Generic;
@@ -35,6 +36,10 @@ namespace Service
         public async Task Delete(int orderid, int bookid)
         {
             await _bookRepository.Delete(orderid, bookid);
+        }
+        public async Task<ICollection<OrderBookDetail>> GetAllOrderBookDetailByOrderId(int id)
+        {
+            return await _bookRepository.GetAllOrderBookDetailByOrderId(id);
         }
     }
 }

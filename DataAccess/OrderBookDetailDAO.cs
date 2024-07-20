@@ -14,6 +14,10 @@ namespace DataAccess
         {
             return await _context.OrderBookDetails.ToListAsync();
         }
+        public async Task<ICollection<OrderBookDetail>> GetAllOrderBookDetailByOrderId(int id)
+        {
+            return await _context.OrderBookDetails.Where(t => t.OrderBookId== id).Include(t => t.Book).ToListAsync();
+        }
         public async Task<OrderBookDetail> GetOrderBookDetailByOrderIdBookid(int orderid, int bookid)
         {
             return await _context.OrderBookDetails.FirstOrDefaultAsync(t => t.OrderBookId == orderid && t.BookId==bookid);

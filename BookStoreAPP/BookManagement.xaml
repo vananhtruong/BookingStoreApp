@@ -8,8 +8,8 @@
                   d:DesignHeight="450" d:DesignWidth="800">
     <UserControl.Background>
         <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
-            <GradientStop Color="White" Offset="0.0"/>
-            <GradientStop Color="White" Offset="1.0"/>
+            <GradientStop Color="#3AA9AD" Offset="0.0"/>
+            <GradientStop Color="#3AA9AD" Offset="1.0"/>
         </LinearGradientBrush>
     </UserControl.Background>
     <UserControl.Resources>

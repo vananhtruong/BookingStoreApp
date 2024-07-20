@@ -31,6 +31,12 @@
     <Compile Update="MemberWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="OrderManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewOrderDetailDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="AddEditBookCategoryDialog.xaml">
@@ -64,6 +70,12 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MemberWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OrderManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewOrderDetailDialog.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

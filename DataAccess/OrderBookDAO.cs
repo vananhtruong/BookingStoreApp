@@ -12,7 +12,7 @@ namespace DataAccess
     {
         public async Task<ICollection<OrderBook>> GetAllOrderBook()
         {
-            return await _context.OrderBooks.ToListAsync();
+            return await _context.OrderBooks.Include(t => t.Member).ToListAsync();
         }
         public async Task<OrderBook> GetOrderBookById(int id)
         {

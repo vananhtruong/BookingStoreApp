@@ -25,6 +25,9 @@
                 <TabItem Header="Book Management" HorizontalAlignment="Right" Margin="0,-2,-2,0" Width="123">
                     <local:BookManagement />
                 </TabItem>
+                <TabItem Header="Order Management" HorizontalAlignment="Right" Margin="0,-2,-2,0" Width="123">
+                    <local:OrderManagement />
+                </TabItem>
             </TabControl>
             <Button Click="btnLogout_Click" Margin="526,1,72,588">
                 <StackPanel Orientation="Horizontal">

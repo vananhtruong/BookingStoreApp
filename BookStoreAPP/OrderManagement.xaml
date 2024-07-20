@@ -1,0 +1,63 @@
+﻿<UserControl x:Class="BookStoreAPP.OrderManagement"
+                               xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+     xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+     xmlns:local="clr-namespace:BookStoreAPP"
+     mc:Ignorable="d" 
+     Loaded="UserControl_Loaded"
+     d:DesignHeight="450" d:DesignWidth="600">
+    <UserControl.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#3AA9AD" Offset="0.0"/>
+            <GradientStop Color="#3AA9AD" Offset="1.0"/>
+        </LinearGradientBrush>
+    </UserControl.Background>
+    <UserControl.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Padding" Value="5,2"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Background" Value="LightGray"/>
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="ToolTipService.ToolTip" Value="Click to update profile"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="LightBlue"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="SkyBlue"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <DataGrid x:Name="dgBookingHistory" d:ItemsSource="{d:SampleData ItemCount=14}" AutoGenerateColumns="False" Grid.Row="1" IsReadOnly="True" CanUserResizeColumns="False" CanUserReorderColumns="False" SelectionMode="Single" CanUserAddRows="False" CanUserDeleteRows="False" Margin="10,101,10,50" SelectionChanged="dgBookingHistory_SelectionChanged" Grid.RowSpan="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Order Id" Binding="{Binding OrderBookId}"  Width="SizeToHeader"/>
+                <DataGridTextColumn Header="Order Date" Binding="{Binding OrderDate}" Width="*"/>
+                <DataGridTextColumn Header="Total Price" Binding="{Binding TotalPrice, StringFormat=C}" Width="*"/>
+                <DataGridTextColumn Header="OrderStatus" Binding="{Binding OrderStatus}" Width="*" />
+                <DataGridTextColumn Header="Member Name" Binding="{Binding Member.FullName}"  Width="2*" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10" Grid.Row="2">
+            <Button Content="View" Click="btnView_Click" Margin="5" />
+
+        </StackPanel>
+        <Label Content="Order Management" FontSize="20" HorizontalAlignment="Left" Height="36" Margin="10,10,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="201"/>
+        <Label Content="Search by Name member..." HorizontalAlignment="Left" Height="26" Margin="30,46,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="158"/>
+        <TextBox x:Name="txtSearchName" HorizontalAlignment="Left" Height="26" Margin="193,46,0,0" Grid.RowSpan="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="107" TextChanged="TextBox_TextChanged"/>
+
+    </Grid>
+</UserControl>
