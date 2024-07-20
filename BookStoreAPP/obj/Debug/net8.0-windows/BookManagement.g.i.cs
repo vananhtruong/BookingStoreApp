@@ -69,7 +69,7 @@ namespace BookStoreAPP {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/BookStoreAPP;component/bookmanagement.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/BookStoreAPP;V1.0.0.0;component/bookmanagement.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\BookManagement.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

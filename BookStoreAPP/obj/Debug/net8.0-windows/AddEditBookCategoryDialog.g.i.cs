@@ -69,7 +69,7 @@ namespace BookStoreAPP {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/BookStoreAPP;component/addeditbookcategorydialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/BookStoreAPP;V1.0.0.0;component/addeditbookcategorydialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AddEditBookCategoryDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
