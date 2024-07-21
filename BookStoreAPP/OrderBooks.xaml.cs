@@ -91,38 +91,47 @@ namespace BookStoreAPP
 
         private async void btnAdd_Click(object sender, RoutedEventArgs e)
         {
-            if (dgBook.SelectedItems.Count > 0)
+            try
             {
-                book = (Book)dgBook.SelectedItem;
-                detail = (OrderBookDetail)dgOrderDetails.SelectedItem;
-
-                foreach (var r in orderDetailsDTOs)
+                if (dgBook.SelectedItems.Count > 0)
                 {
-
-                    if (r.Book.BookId == book.BookId)
+                    book = (Book)dgBook.SelectedItem;
+                    detail = (OrderBookDetail)dgOrderDetails.SelectedItem;
+                    if (!int.TryParse(txtQuantity.Text, out int enteredQuantity) || enteredQuantity > book.Quantity)
                     {
-                        MessageBox.Show("Book has in list");
+                        MessageBox.Show($"Quantity must be less than {book.Quantity+1}", "View Order", MessageBoxButton.OK, MessageBoxImage.Error);
+                        txtQuantity.Focus(); 
+                        txtQuantity.SelectAll(); 
                         return;
                     }
+                    foreach (var r in orderDetailsDTOs)
+                    {
+
+                        if (r.Book.BookId == book.BookId)
+                        {
+                            MessageBox.Show("Book has in list");
+                            return;
+                        }
+                    }
+                    var TotalPrice = (book.Price * int.Parse(txtQuantity.Text));
+
+                    var orderDetail = new OrderBookDetail()
+                    {
+                        Book = book,
+                        Quantity = int.Parse(txtQuantity.Text),
+                        TotalPrice = TotalPrice,
+
+                    };
+                    orderDetailsDTOs.Add(orderDetail);
+                    txtTotalPrice.Text = CalculateTotalPrice().ToString();
+                    LoadOrderDetails(sender, e);
                 }
-                var TotalPrice = (book.Price * int.Parse(txtQuantity.Text));
-
-                var orderDetail = new OrderBookDetail()
-                {
-                    Book = book,
-                    Quantity = int.Parse(txtQuantity.Text),
-                    TotalPrice = TotalPrice,
-
-                };
-                orderDetailsDTOs.Add(orderDetail);
-                txtTotalPrice.Text = CalculateTotalPrice().ToString();
-                LoadOrderDetails(sender, e);
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show($"You must input quantity", "View Order", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
-
-
-
-
 
         private decimal? CalculateTotalPrice()
         {
@@ -148,7 +157,7 @@ namespace BookStoreAPP
                 txtAuthor.Text = book.Author;
                 txtQuantity.TextChanged += (s, args) =>
                 {
-                    if (int.TryParse(txtQuantity.Text, out int quantity))
+                    if (int.TryParse(txtQuantity.Text, out int quantity) && int.Parse(txtQuantity.Text)<=book.Quantity)
                     {
                         txtQuantity.Text = quantity.ToString();
                     }
@@ -218,7 +227,7 @@ namespace BookStoreAPP
                 Order.OrderDate = DateOnly.FromDateTime(DateTime.Now);
                 Order.OrderStatus = true;
                 Order.TotalPrice = CalculateTotalPrice();
-                Order.MemberId = 1;
+                Order.MemberId = member.MemberId;
 
                 // Ensure RoomInformation entities are retrieved correctly
                 foreach (var detail in orderDetailsDTOs)
@@ -234,6 +243,8 @@ namespace BookStoreAPP
                 //reset data
                 Order = null;
                 orderDetailsDTOs = null;
+                DialogResult = true;
+                Close();
             }
             catch (Exception ex)
             {

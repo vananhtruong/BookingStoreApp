@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\track\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj": {}
+    "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj": {}
   },
   "projects": {
-    "D:\\track\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj": {
+    "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\track\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj",
+        "projectUniqueName": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj",
         "projectName": "BookStoreAPP",
-        "projectPath": "D:\\track\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\track\\BookingStoreApp\\BookStoreAPP\\obj\\",
+        "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BookStoreAPP\\BookStoreAPP.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BookStoreAPP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,14 +33,14 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
-                "projectPath": "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
+              "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+                "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
               },
-              "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj"
+              "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Repositories\\Repositories.csproj"
               },
-              "D:\\track\\BookingStoreApp\\Service\\Service.csproj": {
-                "projectPath": "D:\\track\\BookingStoreApp\\Service\\Service.csproj"
+              "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Service\\Service.csproj": {
+                "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Service\\Service.csproj"
               }
             }
           }
@@ -82,20 +82,20 @@
         }
       }
     },
-    "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+    "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
+        "projectUniqueName": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
         "projectName": "BusnessObject",
-        "projectPath": "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\track\\BookingStoreApp\\BusnessObject\\obj\\",
+        "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -171,20 +171,20 @@
         }
       }
     },
-    "D:\\track\\BookingStoreApp\\DataAccess\\DataAccess.csproj": {
+    "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\track\\BookingStoreApp\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\track\\BookingStoreApp\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\track\\BookingStoreApp\\DataAccess\\obj\\",
+        "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -200,8 +200,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
-                "projectPath": "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
+              "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+                "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
               }
             }
           }
@@ -240,20 +240,20 @@
         }
       }
     },
-    "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj": {
+    "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\track\\BookingStoreApp\\Repositories\\obj\\",
+        "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -269,11 +269,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
-                "projectPath": "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
+              "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+                "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
               },
-              "D:\\track\\BookingStoreApp\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\track\\BookingStoreApp\\DataAccess\\DataAccess.csproj"
+              "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -312,20 +312,20 @@
         }
       }
     },
-    "D:\\track\\BookingStoreApp\\Service\\Service.csproj": {
+    "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\track\\BookingStoreApp\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "D:\\track\\BookingStoreApp\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\track\\BookingStoreApp\\Service\\obj\\",
+        "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -341,11 +341,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
-                "projectPath": "D:\\track\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
+              "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+                "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj"
               },
-              "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\track\\BookingStoreApp\\Repositories\\Repositories.csproj"
+              "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\Repositories\\Repositories.csproj"
               }
             }
           }

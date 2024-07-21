@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\track\\BookingStoreApp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\bookingstoreapp\\bookstoreapp\\orderhistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\orderhistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\bookingstoreapp\\bookstoreapp\\orderbooks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\orderbooks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderBooks.xaml.cs",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\OrderBooks.xaml.cs",
+              "RelativeDocumentMoniker": "BookStoreAPP\\OrderBooks.xaml.cs",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\OrderBooks.xaml.cs",
+              "RelativeToolTip": "BookStoreAPP\\OrderBooks.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:44:44.727Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderHistory.xaml.cs",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\OrderHistory.xaml.cs",
+              "RelativeDocumentMoniker": "BookStoreAPP\\OrderHistory.xaml.cs",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\OrderHistory.xaml.cs",
+              "RelativeToolTip": "BookStoreAPP\\OrderHistory.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwDIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T10:44:43.739Z",
+              "EditorCaption": ""
             }
           ]
         }

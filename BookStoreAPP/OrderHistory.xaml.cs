@@ -40,15 +40,20 @@ namespace BookStoreAPP
             dgOrderHistory.ItemsSource = orderDetails;
         }
 
-        private void btnAdd_Click(object sender, RoutedEventArgs e)
+        private async void btnAdd_Click(object sender, RoutedEventArgs e)
         {
             OrderBooks orderDialog = new OrderBooks();
             orderDialog.member = member;
-            if (orderDialog.ShowDialog() == true)
+            orderDialog.Closed += async (s, args) =>
             {
-                LoadData();
-            }
+                if (orderDialog.DialogResult == true)
+                {
+                    LoadData();
+                }
+            };
+            orderDialog.ShowDialog();
         }
+
         private void btnView_Click(object sender, RoutedEventArgs e)
         {
             if (dgOrderHistory.SelectedItem is OrderBook selectedBooking)
@@ -68,6 +73,7 @@ namespace BookStoreAPP
                 MessageBox.Show("Please select a booking to view.", "View Booking", MessageBoxButton.OK, MessageBoxImage.Information);
             }
         }
+        
 
         private async void btnDelete_Click(object sender, RoutedEventArgs e)
         {

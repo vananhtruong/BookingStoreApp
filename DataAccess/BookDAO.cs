@@ -55,7 +55,7 @@ namespace DataAccess
             return await _context.Books.Where(c => c.BookName.Contains(query) ||
                                                     c.Author.Contains(query) ||
                                                     c.Price.ToString().Contains(query) ||
-                                           c.Description.Contains(query)).ToListAsync();
+                                           c.Description.Contains(query)).Include(t=>t.BookCategory).ToListAsync();
         }
     }
 }

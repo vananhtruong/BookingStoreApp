@@ -31,7 +31,7 @@
                     <local:OrderHistory x:Name="orderHistory"/>
                 </TabItem>
             </TabControl>
-            <Button Click="btnLogout_Click" Grid.ColumnSpan="2" Margin="510,10,88,579">
+            <Button Click="btnLogout_Click" Grid.ColumnSpan="2" Margin="631,42,31,534">
                 <StackPanel Orientation="Horizontal">
                     <TextBlock Text="Logout"/>
                 </StackPanel>
