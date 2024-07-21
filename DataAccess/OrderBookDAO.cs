@@ -20,7 +20,8 @@ namespace DataAccess
         }
         public async Task<ICollection<OrderBook>> GetOrderBookByMemberId(int id)
         {
-            return await _context.OrderBooks.Where(t => t.MemberId == id).ToListAsync();
+            using (var context = new BookStoreContext())
+                return await context.OrderBooks.Where(t => t.MemberId == id).Include(t => t.Member).ToListAsync();
         }
         public async Task Create(OrderBook employee)
         {

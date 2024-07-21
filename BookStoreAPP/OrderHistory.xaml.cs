@@ -21,6 +21,7 @@ namespace BookStoreAPP
     /// </summary>
     public partial class OrderHistory : UserControl
     {
+        private ICollection<OrderBook> orders = new List<OrderBook>();
         private readonly IOrderBookService order;
         public BookManagementMember member { get; set; }
         public OrderHistory()
@@ -48,7 +49,7 @@ namespace BookStoreAPP
             {
                 if (orderDialog.DialogResult == true)
                 {
-                    LoadData();
+                    UserControl_Loaded(sender, e);
                 }
             };
             orderDialog.ShowDialog();

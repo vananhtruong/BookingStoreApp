@@ -1,26 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\",
+  "WorkspaceRootPath": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\bookingstoreapp\\bookstoreapp\\membermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\membermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{730F9001-B1E2-4A24-8390-73EECF12DE5E}|DataAccess\\DataAccess.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\dataaccess\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730F9001-B1E2-4A24-8390-73EECF12DE5E}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\bookingstoreapp\\bookstoreapp\\managebookcategory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\managebookcategory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\vieworderdetaildialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\vieworderdetaildialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\bookingstoreapp\\bookstoreapp\\bookmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\bookmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\ordermanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\ordermanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\bookingstoreapp\\bookstoreapp\\orderhistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\orderhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\orderhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\orderbooks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\orderbooks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\memberwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\memberwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\memberregister.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\memberregister.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\memberprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\memberprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\membermanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\membermanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\managebookcategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\managebookcategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\bookmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\bookmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\addeditcustomerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\addeditcustomerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\addeditbookdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\addeditbookdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\addeditbookcategorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\addeditbookcategorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\orderhistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\orderhistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\bookingstoreapp\\bookstoreapp\\orderbooks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\orderbooks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{730F9001-B1E2-4A24-8390-73EECF12DE5E}|DataAccess\\DataAccess.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\dataaccess\\orderbookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730F9001-B1E2-4A24-8390-73EECF12DE5E}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderbookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\vieworderdetaildialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\vieworderdetaildialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\bookstoreapp\\ordermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145EC9A-9590-474B-BAE5-460467D6D03D}|BookStoreAPP\\BookStoreAPP.csproj|solutionrelative:bookstoreapp\\ordermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730F9001-B1E2-4A24-8390-73EECF12DE5E}|DataAccess\\DataAccess.csproj|d:\\chuy\u00EAn ng\u00E0nh 5\\clone\\new folder\\bookingstoreapp\\dataaccess\\bookmanagementmemberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730F9001-B1E2-4A24-8390-73EECF12DE5E}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\bookmanagementmemberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +94,264 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderBooks.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\OrderBooks.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\OrderBooks.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\OrderBooks.xaml",
+              "RelativeToolTip": "BookStoreAPP\\OrderBooks.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:35:43.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberRegister.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\MemberRegister.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\MemberRegister.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\MemberRegister.xaml",
+              "RelativeToolTip": "BookStoreAPP\\MemberRegister.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:35:37.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberProfile.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\MemberProfile.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\MemberProfile.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\MemberProfile.xaml",
+              "RelativeToolTip": "BookStoreAPP\\MemberProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:35:32.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemberManagement.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\MemberManagement.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\MemberManagement.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\MemberManagement.xaml",
+              "RelativeToolTip": "BookStoreAPP\\MemberManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:35:31.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MemberManagement.xaml.cs",
-              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\MemberManagement.xaml.cs",
-              "RelativeDocumentMoniker": "BookStoreAPP\\MemberManagement.xaml.cs",
-              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\MemberManagement.xaml.cs",
-              "RelativeToolTip": "BookStoreAPP\\MemberManagement.xaml.cs",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAAAHMAAAAAAAAA",
+              "Title": "BookDAO.cs",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\DataAccess\\BookDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\BookDAO.cs",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\DataAccess\\BookDAO.cs",
+              "RelativeToolTip": "DataAccess\\BookDAO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T11:01:16.375Z",
+              "WhenOpened": "2024-07-21T14:19:01.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ManageBookCategory.xaml.cs",
-              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\ManageBookCategory.xaml.cs",
-              "RelativeDocumentMoniker": "BookStoreAPP\\ManageBookCategory.xaml.cs",
-              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\ManageBookCategory.xaml.cs",
-              "RelativeToolTip": "BookStoreAPP\\ManageBookCategory.xaml.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAswHQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T10:57:11.372Z",
+              "Title": "ViewOrderDetailDialog.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\ViewOrderDetailDialog.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\ViewOrderDetailDialog.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\ViewOrderDetailDialog.xaml",
+              "RelativeToolTip": "BookStoreAPP\\ViewOrderDetailDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:36:02.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BookManagement.xaml.cs",
-              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\BookManagement.xaml.cs",
-              "RelativeDocumentMoniker": "BookStoreAPP\\BookManagement.xaml.cs",
-              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\BookManagement.xaml.cs",
-              "RelativeToolTip": "BookStoreAPP\\BookManagement.xaml.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAIwGoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T10:55:04.913Z",
+              "Title": "OrderManagement.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\OrderManagement.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\OrderManagement.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\OrderManagement.xaml",
+              "RelativeToolTip": "BookStoreAPP\\OrderManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:36:00.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderBooks.xaml.cs",
-              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\OrderBooks.xaml.cs",
-              "RelativeDocumentMoniker": "BookStoreAPP\\OrderBooks.xaml.cs",
-              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\OrderBooks.xaml.cs",
-              "RelativeToolTip": "BookStoreAPP\\OrderBooks.xaml.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T10:44:44.727Z",
+              "DocumentIndex": 9,
+              "Title": "ManageBookCategory.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\ManageBookCategory.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\ManageBookCategory.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\ManageBookCategory.xaml",
+              "RelativeToolTip": "BookStoreAPP\\ManageBookCategory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:35:28.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OrderHistory.xaml.cs",
-              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\OrderHistory.xaml.cs",
-              "RelativeDocumentMoniker": "BookStoreAPP\\OrderHistory.xaml.cs",
-              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\BookingStoreApp\\BookStoreAPP\\OrderHistory.xaml.cs",
-              "RelativeToolTip": "BookStoreAPP\\OrderHistory.xaml.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCoAAABJAAAA",
+              "Title": "OrderHistory.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\OrderHistory.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\OrderHistory.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\OrderHistory.xaml",
+              "RelativeToolTip": "BookStoreAPP\\OrderHistory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:33:44.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\MainWindow.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\MainWindow.xaml",
+              "RelativeToolTip": "BookStoreAPP\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:35:26.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberWindow.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\MemberWindow.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\MemberWindow.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\MemberWindow.xaml",
+              "RelativeToolTip": "BookStoreAPP\\MemberWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:34:15.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookManagement.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\BookManagement.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\BookManagement.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\BookManagement.xaml",
+              "RelativeToolTip": "BookStoreAPP\\BookManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:35:22.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\AdminWindow.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\AdminWindow.xaml",
+              "RelativeToolTip": "BookStoreAPP\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:35:18.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEditCustomerDialog.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\AddEditCustomerDialog.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\AddEditCustomerDialog.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\AddEditCustomerDialog.xaml",
+              "RelativeToolTip": "BookStoreAPP\\AddEditCustomerDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:35:14.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEditBookDialog.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\AddEditBookDialog.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\AddEditBookDialog.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\AddEditBookDialog.xaml",
+              "RelativeToolTip": "BookStoreAPP\\AddEditBookDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:35:10.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddEditBookCategoryDialog.xaml",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\AddEditBookCategoryDialog.xaml",
+              "RelativeDocumentMoniker": "BookStoreAPP\\AddEditBookCategoryDialog.xaml",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\AddEditBookCategoryDialog.xaml",
+              "RelativeToolTip": "BookStoreAPP\\AddEditBookCategoryDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T14:34:53.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewOrderDetailDialog.xaml.cs",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\ViewOrderDetailDialog.xaml.cs",
+              "RelativeDocumentMoniker": "BookStoreAPP\\ViewOrderDetailDialog.xaml.cs",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\ViewOrderDetailDialog.xaml.cs",
+              "RelativeToolTip": "BookStoreAPP\\ViewOrderDetailDialog.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCIAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T10:44:43.739Z",
+              "WhenOpened": "2024-07-21T14:20:10.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderManagement.xaml.cs",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\OrderManagement.xaml.cs",
+              "RelativeDocumentMoniker": "BookStoreAPP\\OrderManagement.xaml.cs",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\OrderManagement.xaml.cs",
+              "RelativeToolTip": "BookStoreAPP\\OrderManagement.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:20:58.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookManagementMemberDAO.cs",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\DataAccess\\BookManagementMemberDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\BookManagementMemberDAO.cs",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\DataAccess\\BookManagementMemberDAO.cs",
+              "RelativeToolTip": "DataAccess\\BookManagementMemberDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:19:30.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderBookDAO.cs",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\DataAccess\\OrderBookDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OrderBookDAO.cs",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\DataAccess\\OrderBookDAO.cs",
+              "RelativeToolTip": "DataAccess\\OrderBookDAO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:17:09.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderHistory.xaml.cs",
+              "DocumentMoniker": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\OrderHistory.xaml.cs",
+              "RelativeDocumentMoniker": "BookStoreAPP\\OrderHistory.xaml.cs",
+              "ToolTip": "D:\\Chuy\u00EAn ng\u00E0nh 5\\Clone\\New folder\\BookingStoreApp\\BookStoreAPP\\OrderHistory.xaml.cs",
+              "RelativeToolTip": "BookStoreAPP\\OrderHistory.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwCYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:15:59.925Z",
               "EditorCaption": ""
             }
           ]

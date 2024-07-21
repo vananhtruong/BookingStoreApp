@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BookStoreAPP"
         mc:Ignorable="d"
+             
         Loaded="UserControl_Loaded"
         Height="409" Width="655">
     <UserControl.Background>

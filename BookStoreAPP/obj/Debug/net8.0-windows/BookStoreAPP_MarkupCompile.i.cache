@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Chuyên ngành 5\Clone\BookingStoreApp\BookStoreAPP\obj\Debug\net8.0-windows\
+D:\Chuyên ngành 5\Clone\New folder\BookingStoreApp\BookStoreAPP\obj\Debug\net8.0-windows\
 BookStoreAPP
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\Chuyên ngành 5\Clone\BookingStoreApp\BookStoreAPP\App.xaml
+D:\Chuyên ngành 5\Clone\New folder\BookingStoreApp\BookStoreAPP\App.xaml
 15544811349
 
 20-982966027
-248-1142956470
+248271546447
 AddEditBookCategoryDialog.xaml;AddEditBookDialog.xaml;AddEditCustomerDialog.xaml;AdminWindow.xaml;BookManagement.xaml;MainWindow.xaml;ManageBookCategory.xaml;MemberManagement.xaml;MemberProfile.xaml;MemberRegister.xaml;MemberWindow.xaml;OrderBooks.xaml;OrderHistory.xaml;OrderManagement.xaml;ViewOrderDetailDialog.xaml;
 
 True

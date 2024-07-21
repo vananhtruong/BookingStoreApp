@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {}
+    "D:\\Chuyên ngành 5\\Clone\\New folder\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {}
   },
   "projects": {
-    "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
+    "D:\\Chuyên ngành 5\\Clone\\New folder\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
+        "projectUniqueName": "D:\\Chuyên ngành 5\\Clone\\New folder\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
         "projectName": "BusnessObject",
-        "projectPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
+        "projectPath": "D:\\Chuyên ngành 5\\Clone\\New folder\\BookingStoreApp\\BusnessObject\\BusnessObject.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Chuyên ngành 5\\Clone\\BookingStoreApp\\BusnessObject\\obj\\",
+        "outputPath": "D:\\Chuyên ngành 5\\Clone\\New folder\\BookingStoreApp\\BusnessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

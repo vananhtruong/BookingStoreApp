@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BookStoreAPP"
         mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
         Title="AddEditBookDialog" Height="420" Width="458">
     <Window.Background>
         <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
