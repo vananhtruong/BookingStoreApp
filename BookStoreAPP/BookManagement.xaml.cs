@@ -91,17 +91,24 @@ namespace BookStoreAPP
 
         private async void btnDelete_Click(object sender, RoutedEventArgs e)
         {
-            if (dgCustomers.SelectedItem is Book selectedCustomer)
+            try
             {
-                if (MessageBox.Show($"Are you sure you want to delete Customer {selectedCustomer.BookName}?", "Confirm Delete", MessageBoxButton.YesNo, MessageBoxImage.Warning) == MessageBoxResult.Yes)
+                if (dgCustomers.SelectedItem is Book selectedCustomer)
                 {
-                    await customerService.Delete(selectedCustomer.BookId);
-                    LoadData();
+                    if (MessageBox.Show($"Are you sure you want to delete Book {selectedCustomer.BookName}?", "Confirm Delete", MessageBoxButton.YesNo, MessageBoxImage.Warning) == MessageBoxResult.Yes)
+                    {
+                        await customerService.Delete(selectedCustomer.BookId);
+                        LoadData();
+                    }
                 }
-            }
-            else
+                else
+                {
+                    MessageBox.Show("Please select a book to delete.", "Delete Book", MessageBoxButton.OK, MessageBoxImage.Information);
+                }
+            }catch(Exception ex)
             {
-                MessageBox.Show("Please select a customer to delete.", "Delete Customer", MessageBoxButton.OK, MessageBoxImage.Information);
+                MessageBox.Show("The book have an order can't delete", "Delete Book", MessageBoxButton.OK, MessageBoxImage.Information);
+
             }
         }
     }
